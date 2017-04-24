@@ -13,12 +13,12 @@
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-left ">
                 <li><a href="<?php echo base_url(); ?>">INICIO</a></li>
-                <li><a href="<?php echo base_url(); ?>">COMO PARTICIPAR</a></li>
-                <li><a href="<?php echo base_url(); ?>">FASES</a></li>
-                <li><a href="<?php echo base_url(); ?>">ESCOLAS PARTICIPANTES</a></li>
-                <li><a href="<?php echo base_url(); ?>">INSTITUIÇÃO</a></li>
-                <li><a href="<?php echo base_url(); ?>">INSCREVA-SE</a></li>
-                <li><a href="<?php echo base_url(); ?>">CONTATO</a></li>
+                <li><a href="<?php echo base_url(); ?>participar">COMO PARTICIPAR</a></li>
+                <li><a href="<?php echo base_url(); ?>fases">FASES</a></li>
+                <li><a href="<?php echo base_url(); ?>participantes">ESCOLAS PARTICIPANTES</a></li>
+                <li><a href="<?php echo base_url(); ?>instituicao">INSTITUIÇÃO</a></li>
+                <li><a href="<?php echo base_url(); ?>inscricao">INSCREVA-SE</a></li>
+                <li><a href="<?php echo base_url(); ?>contato">CONTATO</a></li>
             </ul>
 
         </div>
