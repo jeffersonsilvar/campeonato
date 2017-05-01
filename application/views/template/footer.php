@@ -11,10 +11,10 @@
                 <p><i class="fa fa-globe" aria-hidden="true"><a href="http://www.uninassau.edu.br"></i> uninassau.edu.br</a></p>
             </div>
             <div class="col-lg-4 col-md-4">
-                <h4>About</h4>
-                <p><i class="fa fa-square-o" aria-hidden="true"></i> About Us</p>
-                <p><i class="fa fa-square-o" aria-hidden="true"></i> Privacy</p>
-                <p><i class="fa fa-square-o" aria-hidden="true"></i> Term & Condition</p>
+                <h4>Sobre</h4>
+                <!--<p><i class="fa fa-square-o" aria-hidden="true"></i> About Us</p>-->
+                <p><i class="fa fa-square-o" aria-hidden="true"></i> Privacidade</p>
+                <p><i class="fa fa-square-o" aria-hidden="true"></i> Termos & Condições</p>
             </div>
             <div class="col-lg-4 col-md-4">
                 <h4>Midias Sociais</h4>
