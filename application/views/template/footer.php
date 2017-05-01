@@ -12,7 +12,6 @@
             </div>
             <div class="col-lg-4 col-md-4">
                 <h4>Sobre</h4>
-                <!--<p><i class="fa fa-square-o" aria-hidden="true"></i> About Us</p>-->
                 <p><i class="fa fa-square-o" aria-hidden="true"></i> Privacidade</p>
                 <p><i class="fa fa-square-o" aria-hidden="true"></i> Termos & Condições</p>
             </div>
