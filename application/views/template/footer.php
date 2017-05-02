@@ -24,6 +24,7 @@
                 <a href="https://www.youtube.com/user/uninassau"><i class="social fa fa-youtube" aria-hidden="true"></i></a>
 
             </div>
+            <a id="logo" href="http://www.uninassau.edu.br/institucional/nacional"><img src="assets/images/icone/uninassaumobile.png" alt="Uninassau"></a>
         </div>
     </div>
 </div>
