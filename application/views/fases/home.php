@@ -1,239 +1,15 @@
-<!----- Fases ------>
+<!----- Fases do Congresso ------>
 
 <div id="pricing" class="pricing">
     <div class="container">
         <div class="row">
-            <h2 class="wow fadeInUp">Fases</h2>
-            <p class="wow fadeInUp" data-wow-delay="0.4">O aluno é a escolar tem que passar pelas seguintes fases.</p>
-<<<<<<< HEAD
-
-=======
->>>>>>> 4685ac373d19eb1b7b7cf84d3be48b13eba8a160
+            <h2 class="wow fadeInUp">Etapas do Congresso</h2>
+            <p class="wow fadeInUp" data-wow-delay="0.4">A equipe no dia do congresso irão passar por algumas etapas</p>
+            <!-- Inicio 4º de finais -->
             <div class="col-lg-3 col-md-3 wow flipInY" data-wow-delay="0.8s">
                 <div class="packages">
-                    <h4>8º de Finais</h4>
-                    <!--<h1><img class="icon"src="<?php echo base_url(); ?>assets/images/icone/1fase.png"></h1>-->
-                    <b>1º Desafio</b>
-                    <p>As escolas recebera a visita da Uninassau.</p>
-                    <hr>
-                    <li>Como funciona?</li>
-                    <li>Professores pode participar?</li>
-                    <li>O que será preciso?</li>
-                    <li>Qual nivel de ensino pode participar?</li>
-                    <li>Como se inscrever?</li>
-                    <li>Data de abertura de inscrições?</li>
-<<<<<<< HEAD
-                    <button class="btn btn-success" data-toggle="modal" data-target="#oitavas">Saiba Mais</button>               
-
-                </div>
-            </div>
-            <!-- Modal 8º de Finais -->
-
-            <div class="modal fade" id="oitavas" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLongTitle">8º de Finais</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body"> 
-
-
-                        </div>
-                        <div class="modal-footer">
-                            <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                            <button type="button" class="btn btn-primary">Save changes</button>-->
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!--Fim Modal Semi Final-->
-
-=======
-                    <button class="btn btn-success" data-toggle="modal" data-target="#oitavas">Saiba Mais</button>
-
-                    <!-- Modal 8º de Finais -->
-
-                    <div class="modal fade" id="oitavas" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLongTitle">8º de Finais</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">                                                
-
-
-                                </div>
-                                <div class="modal-footer">
-                                    <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                    <button type="button" class="btn btn-primary">Save changes</button>-->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Fim Modal Semi Final-->
-
-                </div>
-            </div>
->>>>>>> 4685ac373d19eb1b7b7cf84d3be48b13eba8a160
-            <div class="col-lg-3 col-md-3 wow flipInY" data-wow-delay="1.2s">
-                <div class="packages">
-                    <h4>Semi Final</h4>
-                    <!--<h1><img class="icon"src="<?php echo base_url(); ?>assets/images/icone/2fase.png"></h1>-->
-                    <b>2º Desafio</b>
-                    <p>Os alunos serão capacitados antes de ir a competição.</p>
-                    <hr>
-                    <li>Qual ferramenta a ser utilizada?</li>
-                    <li>Quantidades de treinamento?</li>
-                    <li>Quem pode me ajudar?</li>
-                    <li>Horarios da Capacitação?</li>
-                    <li>Quantas pessoas por equipe? </li>
-                    <li>Onde será o Evento?</li>
-                    <button class="btn btn-success" data-toggle="modal" data-target="#Semifinal">Saiba Mais</button>
-<<<<<<< HEAD
-                </div>
-            </div>
-            <!-- Modal Semi Final -->
-
-            <div class="modal fade" id="Semifinal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLongTitle">Semi Final</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">                                                
-
-
-                        </div>
-                        <div class="modal-footer">
-                            <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                            <button type="button" class="btn btn-primary">Save changes</button>-->
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!--Fim Modal Semi Final-->
-
-            <div class="col-lg-3 col-md-3 wow flipInY" data-wow-delay="1.6s">
-                <div class="packages">
-                    <h4>Final</h4>
-                    <!--<h1><img class="icon"src="<?php echo base_url(); ?>assets/images/icone/3fase.png"></h1>-->
-=======
-
-                    <!-- Modal Semi Final -->
-
-                    <div class="modal fade" id="Semifinal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLongTitle">Semi Final</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">                                                
-
-
-                                </div>
-                                <div class="modal-footer">
-                                    <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                    <button type="button" class="btn btn-primary">Save changes</button>-->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Fim Modal Semi Final-->
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-3 wow flipInY" data-wow-delay="1.6s">
-                <div class="packages">
-                    <h4>Final</h4>
-                    <h1><img class="icon"src="<?php echo base_url(); ?>assets/images/icone/3fase.png"></h1>
->>>>>>> 4685ac373d19eb1b7b7cf84d3be48b13eba8a160
-                    <b>Congresso</b>
-                    <p>Lorem Ipsum passages, and more recently with desktop</p>
-                    <hr>
-                    <li>100 Users</li>
-                    <li>SSL Certificate</li>
-                    <li>Online Support</li>
-                    <li>300GB Disckspace</li>
-                    <li>100 Email Address</li>
-                    <li>MySQL Database</li>
-<<<<<<< HEAD
-                    <button class="btn btn-success" data-toggle="modal" data-target="#final">Saiba Mais</button>
-                </div>
-            </div>
-            <!-- Modal Final -->
-
-            <div class="modal fade" id="final" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLongTitle">Final</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">                                                
-
-
-                        </div>
-                        <div class="modal-footer">
-                            <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                            <button type="button" class="btn btn-primary">Save changes</button>-->
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!--Fim Modal Final-->
-
-=======
-                    <button class="btn btn-success" data-toggle="modal" data-target="#final">Get Started</button>
-
-                    <!-- Modal Final -->
-
-                    <div class="modal fade" id="final" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLongTitle">Final</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">                                                
-
-
-                                </div>
-                                <div class="modal-footer">
-                                    <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                    <button type="button" class="btn btn-primary">Save changes</button>-->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--Fim Modal Final-->
-                </div>
-            </div>
->>>>>>> 4685ac373d19eb1b7b7cf84d3be48b13eba8a160
-            <div class="col-lg-3 col-md-3 wow flipInY" data-wow-delay="2s">
-                <div class="packages">
-                    <h4>Premiação</h4>
-                    <h1>39.99</h1>
+                    <h4>4º de Finais</h4>
+                    <h1>9.99</h1>
                     <b>Monthly</b>
                     <p>Lorem Ipsum passages, and more recently with desktop</p>
                     <hr>
@@ -243,63 +19,69 @@
                     <li>300GB Disckspace</li>
                     <li>100 Email Address</li>
                     <li>MySQL Database</li>
-<<<<<<< HEAD
-                    <button class="btn btn-success" data-toggle="modal" data-target="#premiacao">Saiba mais</button>                  
-                </div>
-
-            </div>
-            <!-- Modal Premiacao -->
-
-            <div class="modal fade" id="premiacao" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLongTitle">Premiação</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">                                                
-
-
-                        </div>
-                        <div class="modal-footer">
-                            <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                            <button type="button" class="btn btn-primary">Save changes</button>-->
-=======
-                    <button class="btn btn-success" data-toggle="modal" data-target="#premiacao">Saiba mais</button>
-
-                    <!-- Modal Premiacao -->
-
-                    <div class="modal fade" id="premiacao" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
-                        <div class="modal-dialog" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLongTitle">Premiação</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">                                                
-
-
-                                </div>
-                                <div class="modal-footer">
-                                    <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                                    <button type="button" class="btn btn-primary">Save changes</button>-->
-                                </div>
-                            </div>
->>>>>>> 4685ac373d19eb1b7b7cf84d3be48b13eba8a160
-                        </div>
-                    </div>
-
-                    <!--Fim Modal Premiacao-->
+                    <button class="btn btn-success">Saiba Mais/button>
                 </div>
             </div>
+            <!-- Fim 4º de finais -->
 
-            <!--Fim Modal Premiacao-->
+            <!-- Inicio Semi final -->
+            <div class="col-lg-3 col-md-3 wow flipInY" data-wow-delay="1.2s">
+                <div class="packages">
+                    <h4>Semi Final</h4>
+                    <h1>19.99</h1>
+                    <b>Monthly</b>
+                    <p>Lorem Ipsum passages, and more recently with desktop</p>
+                    <hr>
+                    <li>100 Users</li>
+                    <li>SSL Certificate</li>
+                    <li>Online Support</li>
+                    <li>300GB Disckspace</li>
+                    <li>100 Email Address</li>
+                    <li>MySQL Database</li>
+                    <button class="btn btn-success">Saiba Mais</button>
+                </div>
+            </div>
+            <!-- Fim Semifinais -->
+
+            <!-- Inicio Final -->
+            <div class="col-lg-3 col-md-3 wow flipInY" data-wow-delay="1.6s">
+                <div class="packages">
+                    <h4>Final</h4>
+                    <h1>29.99</h1>
+                    <b>Monthly</b>
+                    <p>Lorem Ipsum passages, and more recently with desktop</p>
+                    <hr>
+                    <li>100 Users</li>
+                    <li>SSL Certificate</li>
+                    <li>Online Support</li>
+                    <li>300GB Disckspace</li>
+                    <li>100 Email Address</li>
+                    <li>MySQL Database</li>
+                    <button class="btn btn-success">Saiba Mais</button>
+                </div>
+            </div>
+            <!-- Fim final -->
+
+            <!-- Inicio Premiação -->
+            <div class="col-lg-3 col-md-3 wow flipInY" data-wow-delay="2s">
+                <div class="packages">
+                    <h4>Premiação</h4>
+                    <h1>39.99</h1>
+                    <b>Monthly</b>
+                    <p>A equipe que for classificada nos 3º primeiros lugares serão premiadas</p>
+                    <hr>
+                    <li>100 Users</li>
+                    <li>SSL Certificate</li>
+                    <li>Online Support</li>
+                    <li>300GB Disckspace</li>
+                    <li>100 Email Address</li>
+                    <li>MySQL Database</li>
+                    <button class="btn btn-success">Saiba Mais</button>
+                </div>
+            </div>            
+            <!-- Fim Premiação -->
         </div>
     </div>
 </div>
 
-<!--- Fim Fases ---->
+<!--- Fim Fases Congresso ---->

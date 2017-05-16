@@ -16,7 +16,7 @@
                 <li><a href="<?php echo base_url(); ?>participar">COMO PARTICIPAR</a></li>
                 <li><a href="<?php echo base_url(); ?>fases">FASES</a></li>
                 <li><a href="<?php echo base_url(); ?>participantes">ESCOLAS PARTICIPANTES</a></li>
-                <li><a href="<?php echo base_url(); ?>instituicao">INSTITUIÇÃO</a></li>
+                <li><a href="<?php echo base_url(); ?>regulamento">REGULAMENTO</a></li>
                 <li><a href="<?php echo base_url(); ?>inscricao">INSCREVA-SE</a></li>
                 <li><a href="<?php echo base_url(); ?>contato">CONTATO</a></li>
             </ul>
