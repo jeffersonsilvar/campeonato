@@ -19,7 +19,7 @@
                     <li>300GB Disckspace</li>
                     <li>100 Email Address</li>
                     <li>MySQL Database</li>
-                    <button class="btn btn-success">Saiba Mais/button>
+                    <button class="btn btn-success">Saiba Mais</button>
                 </div>
             </div>
             <!-- Fim 4º de finais -->

@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row">
                     <h2 class="wow fadeInUp">Contato</h2>
-                    <p class="wow fadeInUp" data-wow-delay="0.4">Lorem Ipsum passages, and more recently with desktop publishing software</p>
+                    <p class="wow fadeInUp" data-wow-delay="0.4">Sugestões, elogios, reclamações, duvidas.</p>
                     <div class="col-lg-6 col-md-6">
                         <div class="input-group input-group-lg wow fadeInUp" data-wow-delay="0.8s">
                             <span class="input-group-addon" id="sizing-addon1"><i class="fa fa-user" aria-hidden="true"></i></span>
