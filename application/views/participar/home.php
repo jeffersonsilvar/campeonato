@@ -3,7 +3,7 @@
 <div id="services" class="services">
     <div class="container">
         <h2 class="wow fadeInUp">Como participar</h2>
-        <p class="wow fadeInUp" data-wow-delay="0.4">Lorem Ipsum is simply dummy text of the printing and typesettin dummy text</p>
+        <p class="wow fadeInUp" data-wow-delay="0.4">Saiba mais de como participar é seja um inventor UNINASSAU</p>
         <div class="row">
             <div class="col-lg-3 col-md-3 wow fadeInLeft" data-wow-delay="1.8s">
                 <i class="fa fa-university" aria-hidden="true"></i>
@@ -21,13 +21,13 @@
             <div class="col-lg-3 col-md-3 wow fadeInLeft" data-wow-delay="0.8s">
                 <i class="fa fa-universal-access" aria-hidden="true"></i>
                 <h4>Treinamento</h4>
-                <p>Lorem Ipsum passages, and more recently with desktop publishing software</p>
+                <p>O concurso dará um treinamento a todas as equipe que forem aprovadas.</p>
                 <button class="btn btn-invert" data-toggle="modal" data-target="#treinamento">Leia Mais</button>
             </div>
             <div class="col-lg-3 col-md-3 wow fadeInLeft" data-wow-delay="0.4s">
                 <i class="fa fa-connectdevelop" aria-hidden="true"></i>
                 <h4>Congresso</h4>
-                <p>Lorem Ipsum passages, and more recently with desktop publishing software</p>
+                <p>As equipes de destaques participaram do congresso.</p>
                 <button class="btn btn-invert" data-toggle="modal" data-target="#congresso">Leia Mais</button>
             </div>
         </div>
@@ -42,18 +42,11 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&timesbar;</button>
-                <h4 class="modal-title">Escola</h4>
+                <h4 class="modal-title">ESCOLA</h4>
             </div>
             <div class="modal-body">
-                Example Explained
-                The "Trigger" part:
-
-                To trigger the modal window, you need to use a button or a link.
-
-                Then include the two data-* attributes:
-
-                data-toggle="modal" opens the modal window
-                data-target="#myModal" points to the id of the modal
+                <div class="text-justify"> A UNINASSAU através de um representante irá visitar algumas escolas da rede privada e pública do ensino médio no município do Recife, através de uma palestra incentivando a importância da tecnologia nos dias atuais, assim informando sobre o concurso de desenvolvimento de aplicativos que a instituição está promovendo.
+                </div>
             </div>
             <div class="modal-footer">
                 <!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
@@ -72,21 +65,15 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&timesbar;</button>
-                <h4 class="modal-title">Estudante</h4>
+                <h4 class="modal-title">ESTUDANTE</h4>
             </div>
             <div class="modal-body">
-                Example Explained
-                The "Trigger" part:
-
-                To trigger the modal window, you need to use a button or a link.
-
-                Then include the two data-* attributes:
-
-                data-toggle="modal" opens the modal window
-                data-target="#myModal" points to the id of the modal
+                O estudante junto com sua equipe de três ou quatro integrantes, terão que se inscrever no concurso com todos os dados solicitados, lembrando que os dados informados será de identificação do aluno na exibição do seu resultado e da sua equipe.
             </div>
             <div class="modal-footer">
-                <!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+                <a href="<?php echo base_url(); ?>inscricao">
+                    <button type="button" class="btn btn-default" >INSCREVA-SE</button>
+                </a>
             </div>
         </div>
 
@@ -102,18 +89,12 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&timesbar;</button>
-                <h4 class="modal-title">Treinamento</h4>
+                <h4 class="modal-title">TREINAMENTO</h4>
             </div>
             <div class="modal-body">
-                Example Explained
-                The "Trigger" part:
-
-                To trigger the modal window, you need to use a button or a link.
-
-                Then include the two data-* attributes:
-
-                data-toggle="modal" opens the modal window
-                data-target="#myModal" points to the id of the modal
+                <div class="text-justify">
+                    Todas as equipes participantes aprovadas na primeira etapa receberão um treinamento básico, para que possa conhecer mais sobre a ferramenta MIT APP INVENTOR, onde será utilizada para o desenvolvimento dos APPS solicitados pelo concurso SEJA UM INVENTOR.
+                </div>
             </div>
             <div class="modal-footer">
                 <!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
@@ -133,18 +114,14 @@
         <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&timesbar;</button>
-                <h4 class="modal-title">Congresso</h4>
+                <h4 class="modal-title">CONGRESSO</h4>
             </div>
             <div class="modal-body">
-                Example Explained
-                The "Trigger" part:
-
-                To trigger the modal window, you need to use a button or a link.
-
-                Then include the two data-* attributes:
-
-                data-toggle="modal" opens the modal window
-                data-target="#myModal" points to the id of the modal
+                <div class="text-justify">
+                    <div class="text-justify">
+                        Apenas oito equipes irão participar da etapa final que é o congresso, lembrando que caso haja empate na etapa final, será utilizado criterios mais rigorosos na avaliação de todo APP desenvolvido.
+                    </div>
+                </div>
             </div>
             <div class="modal-footer">
                 <!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->

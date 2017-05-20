@@ -4,9 +4,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4 col-md-4 wow fadeInLeftBig">
-                <h4>Contato BR</h4>
+                <h4>Contato</h4>
                 <p><i class="fa fa-home" aria-hidden="true"></i> Rua Guilherme Pinto, 400, Graças - Recife</p>
-                <p><i class="fa fa-envelope" aria-hidden="true"></i> info@media.com</p>
+                <p><i class="fa fa-envelope" aria-hidden="true"></i> engcomputacao.rec@uninassau.edu.br</p>
                 <p><i class="fa fa-phone" aria-hidden="true"></i> +55 81 3413 4611</p>
                 <p><i class="fa fa-globe" aria-hidden="true"><a href="http://www.uninassau.edu.br"></i> uninassau.edu.br</a></p>
             </div>
