@@ -53,7 +53,14 @@
  *
  * NOTE: If you change these, also change the error_reporting() code below
  */
-	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
+    //echo dirname(__FILE__);
+    if (dirname(__FILE__) == 'C:\Users\jefin\Dropbox\Campeonato\campeonato' ):
+        define('ENVIRONMENT', 'development');
+    else:
+        define('ENVIRONMENT', 'production');
+    endif;
+
+   //define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
 
 /*
  *---------------------------------------------------------------
